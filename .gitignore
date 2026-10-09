@@ -1,0 +1,6 @@
+out/
+*.class
+fraudsense.db
+sources.txt
+.vscode/
+.idea/
